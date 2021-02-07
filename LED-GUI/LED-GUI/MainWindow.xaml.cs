@@ -23,6 +23,28 @@ namespace LED_GUI
         public MainWindow()
         {
             InitializeComponent();
+
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            int columns = Convert.ToInt32(txtcol.Text);
+            int rows = Convert.ToInt32(txtrow.Text);
+            grid1.Rows = rows;
+            grid1.Columns = columns;
+            for (int i = 0; i <= rows; i++)
+            {
+                for (int j = 0; j <= columns; j++)
+                {
+                    grid1.Children.Add(new Border
+                    {
+                       
+                        BorderThickness = new Thickness(1),
+                        BorderBrush = Brushes.White,
+                        Background = Brushes.Transparent
+                    }) ;
+                }
+            }
         }
     }
 }

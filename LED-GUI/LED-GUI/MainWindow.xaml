@@ -5,8 +5,21 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:LED_GUI"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="800" Width="1024">
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <StackPanel>
+            <TextBlock Margin="10 0" Text="columns"></TextBlock>
+            <TextBox x:Name="txtcol" Margin="10 0"></TextBox>
+            <TextBlock Margin="10 0" Text="rows"></TextBlock>
+            <TextBox x:Name="txtrow" Margin="10 0"></TextBox>
+            <Button Margin="10 20" Content="Insert" Click="Button_Click"></Button>
+        </StackPanel>
+        <UniformGrid Grid.Column="1" x:Name="grid1" Background="Black" >
 
+        </UniformGrid>
     </Grid>
 </Window>
