@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\alireza\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\RizRayaneh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\NGMPC3\\LED GUI\\LED-GUI\\LED-GUI\\LED-GUI.csproj",
+      "projectUniqueName": "C:\\Users\\RizRayaneh\\Source\\Repos\\LED-GUI\\LED-GUI\\LED-GUI\\LED-GUI.csproj",
       "projectName": "LED-GUI",
-      "projectPath": "C:\\NGMPC3\\LED GUI\\LED-GUI\\LED-GUI\\LED-GUI.csproj",
-      "packagesPath": "C:\\Users\\alireza\\.nuget\\packages\\",
-      "outputPath": "C:\\NGMPC3\\LED GUI\\LED-GUI\\LED-GUI\\obj\\",
+      "projectPath": "C:\\Users\\RizRayaneh\\Source\\Repos\\LED-GUI\\LED-GUI\\LED-GUI\\LED-GUI.csproj",
+      "packagesPath": "C:\\Users\\RizRayaneh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RizRayaneh\\Source\\Repos\\LED-GUI\\LED-GUI\\LED-GUI\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RizRayaneh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\alireza\\source\\repos\\FollowUpMedical\\WebBlazorFollowUpMedical\\DllRefrens": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -68,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

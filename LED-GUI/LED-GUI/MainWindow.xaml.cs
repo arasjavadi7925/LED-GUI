@@ -39,14 +39,30 @@ namespace LED_GUI
             {
                 for (int j = 0; j <= columns; j++)
                 {
-                    grid1.Children.Add(new Border
-                    {
-                        BorderThickness = new Thickness(1),
-                        BorderBrush = Brushes.White,
-                        Background = Brushes.Transparent,
-                        Width = 20,
-                        Height = 20
-                    }) ;
+                    grid1.Children.Add(new cell()); 
+                }
+            }
+        }
+
+        private void Grid_MouseMove(object sender, MouseEventArgs e)
+        {
+            if(Mouse.LeftButton == MouseButtonState.Pressed)
+            {
+                UIElement element = (UIElement)Mouse.DirectlyOver;
+                
+            }
+        
+        }
+
+        private void grid1_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (Mouse.LeftButton == MouseButtonState.Pressed)
+            {
+                var a = e.Source as FrameworkElement;
+                if (a != null)
+                {
+                    var c = (cell)a;
+                    c.Background = Brushes.Red;
                 }
             }
         }

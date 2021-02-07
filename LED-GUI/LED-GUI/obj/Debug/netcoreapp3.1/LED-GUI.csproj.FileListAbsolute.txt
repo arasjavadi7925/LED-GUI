@@ -17,3 +17,24 @@ C:\NGMPC3\LED GUI\LED-GUI\LED-GUI\obj\Debug\netcoreapp3.1\LED-GUI.csproj.CoreCom
 C:\NGMPC3\LED GUI\LED-GUI\LED-GUI\obj\Debug\netcoreapp3.1\LED-GUI.dll
 C:\NGMPC3\LED GUI\LED-GUI\LED-GUI\obj\Debug\netcoreapp3.1\LED-GUI.pdb
 C:\NGMPC3\LED GUI\LED-GUI\LED-GUI\obj\Debug\netcoreapp3.1\LED-GUI.genruntimeconfig.cache
+C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\bin\Debug\netcoreapp3.1\LED-GUI.exe
+C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\bin\Debug\netcoreapp3.1\LED-GUI.deps.json
+C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\bin\Debug\netcoreapp3.1\LED-GUI.runtimeconfig.json
+C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\bin\Debug\netcoreapp3.1\LED-GUI.runtimeconfig.dev.json
+C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\bin\Debug\netcoreapp3.1\LED-GUI.dll
+C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\bin\Debug\netcoreapp3.1\LED-GUI.pdb
+C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\obj\Debug\netcoreapp3.1\LED-GUI.csprojAssemblyReference.cache
+C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\obj\Debug\netcoreapp3.1\cell.g.cs
+C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\obj\Debug\netcoreapp3.1\LED-GUI_MarkupCompile.cache
+C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\obj\Debug\netcoreapp3.1\LED-GUI_MarkupCompile.lref
+C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\obj\Debug\netcoreapp3.1\cell.baml
+C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\obj\Debug\netcoreapp3.1\LED-GUI.g.resources
+C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\obj\Debug\netcoreapp3.1\LED-GUI.AssemblyInfoInputs.cache
+C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\obj\Debug\netcoreapp3.1\LED-GUI.AssemblyInfo.cs
+C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\obj\Debug\netcoreapp3.1\LED-GUI.csproj.CoreCompileInputs.cache
+C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\obj\Debug\netcoreapp3.1\LED-GUI.dll
+C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\obj\Debug\netcoreapp3.1\LED-GUI.pdb
+C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\obj\Debug\netcoreapp3.1\LED-GUI.genruntimeconfig.cache

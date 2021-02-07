@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\obj\Debug\netcoreapp3.1\
+C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\obj\Release\netcoreapp3.1\
 LED_GUI
 none
 false
-TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\App.xaml
 2-1672409110
 
@@ -16,5 +16,5 @@ C:\Users\RizRayaneh\Source\Repos\LED-GUI\LED-GUI\LED-GUI\App.xaml
 1921654412462
 cell.xaml;MainWindow.xaml;
 
-False
+True
 
